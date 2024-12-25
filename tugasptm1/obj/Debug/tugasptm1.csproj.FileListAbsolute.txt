@@ -1,0 +1,7 @@
+C:\Users\MyBook Hype\OneDrive\Documents\c# lanjutan\tugasptm1\tugasptm1\bin\Debug\tugasptm1.exe.config
+C:\Users\MyBook Hype\OneDrive\Documents\c# lanjutan\tugasptm1\tugasptm1\bin\Debug\tugasptm1.exe
+C:\Users\MyBook Hype\OneDrive\Documents\c# lanjutan\tugasptm1\tugasptm1\bin\Debug\tugasptm1.pdb
+C:\Users\MyBook Hype\OneDrive\Documents\c# lanjutan\tugasptm1\tugasptm1\obj\Debug\tugasptm1.csproj.AssemblyReference.cache
+C:\Users\MyBook Hype\OneDrive\Documents\c# lanjutan\tugasptm1\tugasptm1\obj\Debug\tugasptm1.csproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype\OneDrive\Documents\c# lanjutan\tugasptm1\tugasptm1\obj\Debug\tugasptm1.exe
+C:\Users\MyBook Hype\OneDrive\Documents\c# lanjutan\tugasptm1\tugasptm1\obj\Debug\tugasptm1.pdb
